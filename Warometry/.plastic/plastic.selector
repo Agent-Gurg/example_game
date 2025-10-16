@@ -1,0 +1,4 @@
+repository "Warometry/Warometry@10170992746408@cloud"
+  path "/"
+    br "/main"
+    co "/main"
